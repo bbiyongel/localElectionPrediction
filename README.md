@@ -10,7 +10,7 @@
 
 ## 설계
 
-![01]()
+![01](https://github.com/younggeun0/localElectionPrediction/blob/master/result/01.png?raw=true)
 
 1. Web Crawler
 2. Word Count
@@ -25,18 +25,18 @@
 
 ## 최종결과
 
-![renderGraph]()
+![renderGraph](https://github.com/younggeun0/localElectionPrediction/blob/master/result/render_graph_result.png?raw=true)
 
-![onRaspberryPi]()
+![onRaspberryPi](https://github.com/younggeun0/localElectionPrediction/blob/master/result/result_on_raspberryPi.png?raw=true)
 
-![result01]()
+![result01](https://github.com/younggeun0/localElectionPrediction/blob/master/result/result01.png?raw=true)
 
 * 먼저 요약하면 많이 언급됐다고 항상 좋은 결과가 나타나지 않았음
     * 안좋은 사건들로 이슈가 될 수 있다는 점들을 간과
     * 바미당은 당명 언급순위 3위, 안철수 후보는 김문수 후보보다 많이 언급됐음에도 결과에 영향을 미치지 못했음
 * 순서대로 1,2위인 더민주, 자한당은 시도지사, 구시군의장 분포에서 각각 1,2위의 결과를 보임
 
-![result02]()
+![result02](https://github.com/younggeun0/localElectionPrediction/blob/master/result/result02.png?raw=true)
 
-![result03]()
+![result03](https://github.com/younggeun0/localElectionPrediction/blob/master/result/result03.JPG?raw=true)
 
